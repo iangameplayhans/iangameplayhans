@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hola, me llamo Ian 👋
 
+Soy un universitario que aspira a ser un desarrollador de videojuegos, uso Godot engine para el desarrollo de videojuegos.
+
+## Contacto
+iangameplayhans@gmail.com
 <!--
 **iangameplayhans/iangameplayhans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
